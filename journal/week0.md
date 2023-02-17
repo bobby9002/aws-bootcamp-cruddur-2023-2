@@ -46,7 +46,7 @@ I have used the cloudshell in us east region .
 - Similar error image.
 ![IMAGE OF SIMILAR ERROR](https://github.com/bobby9002/aws-bootcamp-cruddur-2023/blob/main/journal/assets/error.png)
 
--Able to sort it using the following referance site.
+- Able to sort it using the following referance site.
 [aws cli windows 10 error](https://www.techgalery.com/2020/09/how-to-connect-ssh-using-pem.html)
 
 
