@@ -38,10 +38,13 @@ I have used the cloudshell in us east region .
 
 [LUCID CHARTS SHARE LINK](https://lucid.app/lucidchart/9e795ebe-e35a-48b9-9bde-d66bda790656/edit?viewport_loc=-1468%2C-417%2C4609%2C1686%2C0_0&invitationId=inv_89329d5a-fdfe-483e-b352-4f2a0c6f0d7e)
 
-Challenges faced during week -0
-1.Gitpod - every time i start ,i need to manually load AWS CLI ,code is saved in .gitpod.yml but still no luck.
-2.Lucid charts - couldn't figure out how to draw diagonal lines .
-3.AWS CLI WINDOWS 10 - error faced during instalation , forgot to take the screenshot .
-![IMAGE OF SIMILAR ERROR]()
+### Challenges faced during week -0
+
+- 1.Gitpod - every time i start ,i need to manually load AWS CLI ,code is saved in .gitpod.yml but still no luck.
+- 2.Lucid charts - couldn't figure out how to draw diagonal lines .
+- 3.AWS CLI WINDOWS 10 - error faced during instalation , forgot to take the screenshot .
+- 
+![IMAGE OF SIMILAR ERROR](https://github.com/bobby9002/aws-bootcamp-cruddur-2023/commit/ef779ce2ef9bbb354a9d423f52717cb3438711cf)
+
 
 
