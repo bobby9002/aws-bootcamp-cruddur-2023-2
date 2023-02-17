@@ -17,5 +17,6 @@ msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 I have entered the above command in Command Prompt to install the Aws Cli.
 once installed ,to confirm it is installed ,i have checked with the commands aws, aws --version at the command prompt.
 
-![IMAGE OF AWS CLI INSTALL]()
+![IMAGE OF AWS CLI INSTALL](assets/Aws Cli on Windows-week-0.JPG)
+
 
