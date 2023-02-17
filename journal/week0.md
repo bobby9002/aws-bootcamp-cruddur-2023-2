@@ -28,3 +28,7 @@ I haven't created the second budget ,due to budget spending.
 I have created a billing alarm 
 ![IMAGE OF BILLING ALARM](https://github.com/bobby9002/aws-bootcamp-cruddur-2023/blob/main/journal/assets/aws%20billing%20alaram-week-0.JPG)
 
+### USE CLOUDSHELL
+I have used the cloudshell in us east region .
+![IMAGE OF CLOUDSHELL](https://github.com/bobby9002/aws-bootcamp-cruddur-2023/blob/main/journal/assets/AWS%20Cloudshell-week-0.JPG)
+
