@@ -24,5 +24,7 @@ I created my own Budget of $10 ,affordable amount.
 I haven't created the second budget ,due to budget spending.
 ![IMAGE OF THE BUDGET I CREATED ](https://github.com/bobby9002/aws-bootcamp-cruddur-2023/blob/main/journal/assets/aws%20budget-week-0.JPG)
 
-
+### CREATE A BILLING ALARM
+I have created a billing alarm 
+![IMAGE OF BILLING ALARM](https://github.com/bobby9002/aws-bootcamp-cruddur-2023/blob/main/journal/assets/aws%20billing%20alaram-week-0.JPG)
 
