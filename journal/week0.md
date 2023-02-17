@@ -43,8 +43,12 @@ I have used the cloudshell in us east region .
 - 1.Gitpod - every time i start ,i need to manually load AWS CLI ,code is saved in .gitpod.yml but still no luck.
 - 2.Lucid charts - couldn't figure out how to draw diagonal lines .
 - 3.AWS CLI WINDOWS 10 - error faced during instalation , forgot to take the screenshot .
-- 
-![IMAGE OF SIMILAR ERROR](https://github.com/bobby9002/aws-bootcamp-cruddur-2023/commit/ef779ce2ef9bbb354a9d423f52717cb3438711cf)
+- Similar error image.
+![IMAGE OF SIMILAR ERROR](https://github.com/bobby9002/aws-bootcamp-cruddur-2023/blob/main/journal/assets/error.png)
+
+-Able to sort it using the following referance site.
+[aws cli windows 10 error](https://www.techgalery.com/2020/09/how-to-connect-ssh-using-pem.html)
+
 
 
 
