@@ -32,3 +32,10 @@ I have created a billing alarm
 I have used the cloudshell in us east region .
 ![IMAGE OF CLOUDSHELL](https://github.com/bobby9002/aws-bootcamp-cruddur-2023/blob/main/journal/assets/AWS%20Cloudshell-week-0.JPG)
 
+### Recreate Logical Architectual Diagram in Lucid Charts
+![CRUDDUR LOGICAL DESIGN](https://github.com/bobby9002/aws-bootcamp-cruddur-2023/blob/main/journal/assets/Cruddler%20Logical%20Diagram%20-week-0.jpeg)
+![CLOUD ARCHITECTURE ](https://github.com/bobby9002/aws-bootcamp-cruddur-2023/blob/main/journal/assets/Cloud%20Architecture-week-0.jpeg)
+
+[LUCID CHARTS SHARE LINK](https://lucid.app/lucidchart/9e795ebe-e35a-48b9-9bde-d66bda790656/edit?viewport_loc=-1468%2C-417%2C4609%2C1686%2C0_0&invitationId=inv_89329d5a-fdfe-483e-b352-4f2a0c6f0d7e)
+
+
