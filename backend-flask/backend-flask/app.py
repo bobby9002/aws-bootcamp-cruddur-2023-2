@@ -1,6 +1,7 @@
 
 
 
+from flask import Flask
 from services.home_activities import *
 from services.user_activities import *
 from services.create_activity import *
